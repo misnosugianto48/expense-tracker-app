@@ -1,4 +1,4 @@
-```markdown
+
 # Expense Tracker — Editorial Edition
 
 Aplikasi pelacak keuangan pribadi dengan gaya visual **Editorial / Magazine** — tipografi serif tegas, layout grid bergaris, palet hitam-putih dengan aksen merah, dan zero border-radius. Semua data disimpan secara lokal di browser menggunakan **LocalStorage**, dan seluruh interaksi antarmuka dikelola melalui **DOM Manipulation** murni tanpa framework.
@@ -305,4 +305,3 @@ Keuntungan konvensi ini:
 - **Tidak ada autentikasi** — siapa saja yang mengakses browser yang sama bisa melihat data
 - **Tidak ada undo** — penghapusan langsung menghilangkan data dari storage
 - **Tidak ada validasi server** — semua validasi dilakukan di sisi klien
-```
